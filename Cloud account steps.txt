@@ -1,0 +1,26 @@
+Steps to Create a Free AWS Account
+
+1.Visit the AWS Free Tier Page: 
+	Go to AWS Free Tier.
+2.Click on “Create a Free Account”:
+	Locate and click the button to start creating your account.
+3.Enter Your Email Address and name:
+	Use a valid email address and choose a password.
+	Provide an account name
+4.Set the root password
+4.Complete the Signup Form:
+	Fill in the required information: name, address, phone number, etc.
+	Choose whether you want to receive promotional emails.
+5.Select the Account Type:
+	Choose “Personal”.
+6.Verify Your Identity:
+	You will need to verify your identity via a phone number.
+	Choose to receive a verification code via SMS and verify it.
+7.Enter Payment Information:
+	Provide your credit or debit card details .
+8.Select a Support Plan:
+	Choose the Basic Support Plan (free plan).
+9.Complete the Signup Process:
+	Enter a code for confirming email
+10.Log into AWS Management Console:
+	
